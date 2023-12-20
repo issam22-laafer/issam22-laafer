@@ -7,7 +7,7 @@
 
 
 
-<p align="left" min-width: 100% !important> <a  min-width: 100% !importanthref="https://twitter.com/issam_laafar" target="blank"><img src="https://img.shields.io/twitter/follow/issam_laafar?logo=twitter&style=for-the-badge" alt="issam_laafar" style="min-width: 100% !important" /></a> </p>
+<p align="left" style="min-width: 100% !important"> <a  style="min-width: 100% !important" href="https://twitter.com/issam_laafar" target="blank"><img src="https://img.shields.io/twitter/follow/issam_laafar?logo=twitter&style=for-the-badge" alt="issam_laafar" style="min-width: 100% !important" /></a> </p>
 
 - 🔭 I’m currently working on **ft_printf function**
 
