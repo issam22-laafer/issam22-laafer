@@ -32,6 +32,3 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=issam22-laafer&show_icons=true&locale=en&layout=compact" alt="issam22-laafer" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=issam22-laafer&" alt="issam22-laafer" /></p>
