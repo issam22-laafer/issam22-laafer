@@ -26,7 +26,7 @@
 <a href="https://www.youtube.com/c/issam laafar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="issam laafar" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/xqYKhqWznS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/xqYKhqWznS" height="30" width="40" /></a>
 </p>
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/lissam" alt="lissam's 42 stats" /></a> 
+<a href="https://github.com/oakoudad/badge42" style="width:100%" ><img style="width:100%"  src="https://badge.mediaplus.ma/darkblue/lissam" alt="lissam's 42 stats" /></a> 
 
 
 
