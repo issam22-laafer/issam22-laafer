@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ISSAM LAAFAR</h1>
 <h3 align="center">A passionate full-stack developer from Morocco</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif](https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif)">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
 <p align="left"> <img style="border-radius: 25px" src="https://komarev.com/ghpvc/?username=issam22-laafer&label=Profile%20views&color=0e75b6&style=flat" alt="issam22-laafer" /> </p>
 
