@@ -98,15 +98,17 @@ const developer = {
   </table>
 </div>
 
+
+
 ## 📈 GitHub Stats
 
 <div align="center">
-  <!-- Made responsive by stacking for mobile -->
-  <img width="100%" style="max-width: 400px; margin-bottom: 10px;" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
-  
-  <img width="100%" style="max-width: 400px; margin-bottom: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" alt="Most Used Languages" />
-  
-  <img width="100%" style="max-width: 450px;" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=blueberry_duo&hide_border=true&background=0D1117&stroke=0000" alt="GitHub Streak Stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" alt="Most Used Languages" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=blueberry_duo&hide_border=true&background=0D1117&stroke=0000" alt="GitHub Streak Stats" />
 </div>
 
 ## 📊 This Week I Spent My Time On
@@ -121,21 +123,7 @@ Actually Working    40 mins          ░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-## 🏆 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/yourusername/project1">
-    <img width="100%" style="max-width: 400px; margin-bottom: 10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=react&bg_color=0D1117&hide_border=true" alt="Project 1" />
-  </a>
-  
-  <a href="https://github.com/yourusername/project2">
-    <img width="100%" style="max-width: 400px;" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=react&bg_color=0D1117&hide_border=true" alt="Project 2" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20UI%20is%20the%20one%20you%20don't%20notice." alt="Front-End Quote"/>
-</div>
 
 <h3 align="center">💖 Support Me</h3>
 <p align="center">
