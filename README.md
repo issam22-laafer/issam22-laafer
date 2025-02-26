@@ -9,11 +9,6 @@
 
 <p align="left" > <a href="https://twitter.com/issam_laafar" target="blank"><img src="https://img.shields.io/twitter/follow/issam_laafar?logo=twitter&style=for-the-badge" alt="issam_laafar" /></a> </p>
 
-- 🔭 I’m currently working on **Pipex project**
-
-- 🌱 I’m currently learning **C**
-
-- 💬 Ask me about **React.js, Html, Css, Javascript, Laravel, Php, Mysql, Mongodb, Bootstrap**
 
 - 📫 How to reach me **issamlaafer509@gmail.com**
 
