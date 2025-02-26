@@ -5,10 +5,10 @@
 <h3 align="center">A passionate developer building digital experiences</h3>
 
 <p align="center">
-  <a href="https://twitter.com/yourusername" target="_blank">
+  <a href="https://x.com/issam_laafar" target="_blank">
     <img src="https://img.shields.io/twitter/follow/yourusername?logo=twitter&style=for-the-badge" alt="twitter" />
   </a>
-  <a href="https://www.linkedin.com/in/yourusername/" target="_blank">
+  <a href="https://www.linkedin.com/in/laafar-issam/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
 </p>
@@ -28,10 +28,10 @@
 ## 🚀 About Me
 ```javascript
 const developer = {
-  name: "Your Name",
-  role: "Full Stack Developer",
+  name: "Issam Laafar",
+  role: "Front end web developer",
   location: "Earth",
-  code: ["JavaScript", "TypeScript", "Python", "React", "Node.js"],
+  code: ["Html", "Css", "JavaScript", "Python", "Reactjs", "Nextjs", "Tailwindcss"],
   challenge: "I'm currently enhancing my skills in machine learning and cloud architecture",
   funFact: "I can solve a Rubik's cube in under 2 minutes"
 };
@@ -40,11 +40,10 @@ const developer = {
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 - 🔭 I'm building **[Project Name](https://github.com/yourusername/project)**
-- 🌱 I'm learning **AWS, GraphQL, and Next.js**
+- 🌱 I'm learning **C++ and Next.js**
 - 👯 Let's collaborate on **open-source projects**
-- 💬 Ask me about **web development, automation, or coffee**
-- 📫 Reach me at: **your.email@example.com**
-- 📄 Check my experiences: **[Resume](yourwebsite.com/resume)**
+- 💬 Ask me about **web development, Front-end developement, or coffee**
+- 📫 Reach me at: **issamlaafer509@gmail.com**
 
 ## 🛠️ My Tech Stack
 
