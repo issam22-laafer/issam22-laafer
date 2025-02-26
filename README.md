@@ -31,9 +31,9 @@ const developer = {
   name: "Issam Laafar",
   role: "Front end web developer",
   location: "Earth",
-  code: ["HTML", "CSS", "JavaScript", "ReactJS", "NextJS", "TailwindCSS", "shadcn/ui", "AceternityUI"],
+  code: ["Html", "Css", "JavaScript", "Python", "Reactjs", "Nextjs", "Tailwindcss"],
   challenge: "I'm currently enhancing my skills in c/c++",
-  funFact: "I can bring any UI to life! 🚀 Let's turn ideas into stunning interfaces."
+  funFact: "I can bring any UI to life! 🚀 Let’s turn ideas into stunning interfaces."
 };
 ```
 
@@ -139,8 +139,9 @@ CSS          18 mins         ░░░░░░░░░░░░░░░░░
 
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=A user interface is like a joke. If you have to explain it, it’s not that good." alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20UI%20is%20the%20one%20you%20don’t%20notice." alt="Front-End Quote"/>
 </div>
+
 
 <h3 align="center">💖 Support Me</h3>
 <p align="center">
