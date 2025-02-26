@@ -1,35 +1,166 @@
-<h1 align="center">Hi 👋, I'm ISSAM LAAFAR</h1>
-<h3 align="center">A passionate full-stack developer from Morocco</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+YourName....;Nice+to+meet+you!&center=true&size=30">
+</h1>
 
+<h3 align="center">A passionate developer building digital experiences</h3>
 
-
-<p align="left"> <img style="border-radius: 25px" src="https://komarev.com/ghpvc/?username=issam22-laafer&label=Profile%20views&color=0e75b6&style=flat" alt="issam22-laafer" /> </p>
-
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-
-<p align="left" > <a href="https://twitter.com/issam_laafar" target="blank"><img src="https://img.shields.io/twitter/follow/issam_laafar?logo=twitter&style=for-the-badge" alt="issam_laafar" /></a> </p>
-
-
-- 📫 How to reach me **issamlaafer509@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/issam_laafar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="issam_laafar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/issam laafar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="issam laafar" height="30" width="40" /></a>
-<a href="https://fb.com/issam laafar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="issam laafar" height="30" width="40" /></a>
-<a href="https://instagram.com/issamlaafer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="issamlaafer" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/issam laafar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="issam laafar" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/xqYKhqWznS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/xqYKhqWznS" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://twitter.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/yourusername?logo=twitter&style=for-the-badge" alt="twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/yourusername/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
 </p>
-<a href="https://github.com/oakoudad/badge42"  ><img src="https://badge.mediaplus.ma/darkblue/lissam" alt="lissam's 42 stats" /></a> 
 
+<!-- Profile views counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views">
+</p>
 
+<!-- Wave animation -->
+<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia&no-frame=true&row=1&&margin-w=20&no-bg=true" alt="github-trophy" />
+</p>
 
-<br>
+## 🚀 About Me
+```javascript
+const developer = {
+  name: "Your Name",
+  role: "Full Stack Developer",
+  location: "Earth",
+  code: ["JavaScript", "TypeScript", "Python", "React", "Node.js"],
+  challenge: "I'm currently enhancing my skills in machine learning and cloud architecture",
+  funFact: "I can solve a Rubik's cube in under 2 minutes"
+};
+```
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=issam22-laafer&show_icons=true&locale=en&layout=compact" alt="issam22-laafer" /></p>
+<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=issam22-laafer&" alt="issam22-laafer" /></p>
+- 🔭 I'm building **[Project Name](https://github.com/yourusername/project)**
+- 🌱 I'm learning **AWS, GraphQL, and Next.js**
+- 👯 Let's collaborate on **open-source projects**
+- 💬 Ask me about **web development, automation, or coffee**
+- 📫 Reach me at: **your.email@example.com**
+- 📄 Check my experiences: **[Resume](yourwebsite.com/resume)**
+
+## 🛠️ My Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65" height="65" />
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+      <br>AWS
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
+      <br>Nginx
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="65" height="65" />
+      <br>Sass
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="65" height="65" />
+      <br>Webpack
+    </td>
+  </tr>
+</table>
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" alt="Most Used Languages" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=blueberry_duo&hide_border=true&background=0D1117&stroke=0000" alt="GitHub Streak Stats" />
+</div>
+
+## 📊 This Week I Spent My Time On
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   8 hrs 12 mins   ████████████░░░░░░░░░   50.13 % 
+TypeScript   4 hrs 32 mins   ███████░░░░░░░░░░░░░░   27.73 % 
+React        2 hrs 25 mins   ███░░░░░░░░░░░░░░░░░░   14.78 % 
+HTML         32 mins         ░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+CSS          18 mins         ░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+```
+<!--END_SECTION:waka-->
+
+## 🏆 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/yourusername/project1">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=react&bg_color=0D1117&hide_border=true" alt="Project 1" />
+  </a>
+  <a href="https://github.com/yourusername/project2">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=react&bg_color=0D1117&hide_border=true" alt="Project 2" />
+  </a>
+</p>
+
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [How I Built a Scalable Web Application with React and Node.js](https://yoursite.com/blog-post-1)
+- [10 Tips for Writing Clean JavaScript Code](https://yoursite.com/blog-post-2)
+- [Understanding Data Structures: A Beginner's Guide](https://yoursite.com/blog-post-3)
+<!-- BLOG-POST-LIST:END -->
+
+## 🎵 Currently Listening To
+
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/youruserid)
+
+<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+<h3 align="center">💖 Support Me</h3>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px">
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</div>
