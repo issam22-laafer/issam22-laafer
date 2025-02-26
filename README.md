@@ -137,7 +137,7 @@ Actually Working    40 mins          ░░░░░░░░░░░░░░�
 
 <h3 align="center">💖 Support Me</h3>
 <p align="center">
-  <a href="buymeacoffee.com/issamlaafel" target="_blank">
+  <a href="https://buymeacoffee.com/issamlaafel" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px">
   </a>
 </p>
