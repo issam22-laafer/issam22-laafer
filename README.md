@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+YourName....;Nice+to+meet+you!&center=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Issam Laafar....;Nice+to+meet+you!&center=true&size=30">
 </h1>
 
 <h3 align="center">A passionate developer building digital experiences</h3>
@@ -8,14 +8,14 @@
   <a href="https://x.com/issam_laafar" target="_blank">
     <img src="https://img.shields.io/twitter/follow/yourusername?logo=twitter&style=for-the-badge" alt="twitter" />
   </a>
-  <a href="https://www.linkedin.com/in/laafar-issam/" target="_blank">
+  <a href="https://www.linkedin.com/in/laafar-issam-978767267/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
 </p>
 
 <!-- Profile views counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=issam22-laafer&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views">
 </p>
 
 <!-- Wave animation -->
@@ -32,17 +32,17 @@ const developer = {
   role: "Front end web developer",
   location: "Earth",
   code: ["Html", "Css", "JavaScript", "Python", "Reactjs", "Nextjs", "Tailwindcss"],
-  challenge: "I'm currently enhancing my skills in machine learning and cloud architecture",
-  funFact: "I can solve a Rubik's cube in under 2 minutes"
+  challenge: "I'm currently enhancing my skills in c/c++",
+  funFact: "I can bring any UI to life! 🚀 Let’s turn ideas into stunning interfaces."
 };
 ```
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-- 🔭 I'm building **[Project Name](https://github.com/yourusername/project)**
+- 🔭 I'm building ****
 - 🌱 I'm learning **C++ and Next.js**
 - 👯 Let's collaborate on **open-source projects**
-- 💬 Ask me about **web development, Front-end developement, or coffee**
+- 💬 Ask me about **Front-end developement, or coffee**
 - 📫 Reach me at: **issamlaafer509@gmail.com**
 
 ## 🛠️ My Tech Stack
@@ -136,18 +136,7 @@ CSS          18 mins         ░░░░░░░░░░░░░░░░░
   </a>
 </p>
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [How I Built a Scalable Web Application with React and Node.js](https://yoursite.com/blog-post-1)
-- [10 Tips for Writing Clean JavaScript Code](https://yoursite.com/blog-post-2)
-- [Understanding Data Structures: A Beginner's Guide](https://yoursite.com/blog-post-3)
-<!-- BLOG-POST-LIST:END -->
 
-## 🎵 Currently Listening To
-
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/youruserid)
-
-<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
