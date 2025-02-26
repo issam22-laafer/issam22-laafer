@@ -139,7 +139,7 @@ CSS          18 mins         ░░░░░░░░░░░░░░░░░
 
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The best UI is the one you don't notice." alt="UI Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=A user interface is like a joke. If you have to explain it, it’s not that good." alt="Random Dev Quote"/>
 </div>
 
 <h3 align="center">💖 Support Me</h3>
