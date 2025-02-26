@@ -39,7 +39,7 @@ const developer = {
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-- 🔭 I'm building ****
+- 🔭 I'm building **https://www.soussegroupeservice.com/**
 - 🌱 I'm learning **C++ and Next.js**
 - 👯 Let's collaborate on **open-source projects**
 - 💬 Ask me about **Front-end developement, or coffee**
@@ -86,14 +86,6 @@ const developer = {
     <td align="center" width="96">
       <svg xmlns="http://www.w3.org/2000/svg" width="65" height="65" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"></path><circle cx="12" cy="10" r="3"></circle></svg>
       <br>AceternityUI
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="65" height="65" />
-      <br>Sass
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="65" height="65" />
-      <br>Webpack
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="65" height="65" />
