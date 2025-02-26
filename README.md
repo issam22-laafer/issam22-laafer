@@ -109,11 +109,11 @@ const developer = {
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   8 hrs 12 mins   ████████████░░░░░░░░░   50.13 % 
-TypeScript   4 hrs 32 mins   ███████░░░░░░░░░░░░░░   27.73 % 
-React        2 hrs 25 mins   ███░░░░░░░░░░░░░░░░░░   14.78 % 
-HTML         32 mins         ░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-CSS          18 mins         ░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Overthinking        12 hrs 30 mins   ████████████░░░░░░░░░   48.07 % 
+Scrolling Memes     6 hrs 45 mins    ██████░░░░░░░░░░░░░░░   25.96 % 
+Coffee Breaks       4 hrs 15 mins    ████░░░░░░░░░░░░░░░░░   16.35 % 
+Daydreaming         1 hr 50 mins     ██░░░░░░░░░░░░░░░░░░░   07.08 % 
+Actually Working    40 mins          ░░░░░░░░░░░░░░░░░░░░░   02.54 %
 ```
 <!--END_SECTION:waka-->
 
@@ -137,7 +137,7 @@ CSS          18 mins         ░░░░░░░░░░░░░░░░░
 
 <h3 align="center">💖 Support Me</h3>
 <p align="center">
-  <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
+  <a href="buymeacoffee.com/issamlaafel" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px">
   </a>
 </p>
