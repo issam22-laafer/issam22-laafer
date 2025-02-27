@@ -52,7 +52,7 @@ const developer = {
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,github,vscode,docker,nodejs,figma" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,github,vscode,docker,nodejs,figma,mysql,linux" alt="Tech Stack" />
 </p>
 
 ## 📈 GitHub Stats
@@ -76,10 +76,10 @@ const developer = {
 
 <!--START_SECTION:waka-->
 ```text
-Coding            15 hrs 30 mins   █████████████░░░░░░░░░░   60.07 % 
-Reading Docs      5 hrs 15 mins    █████░░░░░░░░░░░░░░░░░░   20.35 % 
-Debugging        3 hrs 45 mins    ███░░░░░░░░░░░░░░░░░░░░   14.55 % 
-Taking Breaks    1 hr 30 mins     ██░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+Coding            18 hrs 30 mins   ██████████████░░░░░░░░░   70.07 % 
+Reading Docs      4 hrs 15 mins    █████░░░░░░░░░░░░░░░░░░   16.35 % 
+Debugging         2 hrs 45 mins    ██░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+Taking Breaks     1 hr 30 mins     ██░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 <!--END_SECTION:waka-->
 
