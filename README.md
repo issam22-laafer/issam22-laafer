@@ -27,9 +27,7 @@
 </h3>
 
 <!-- GitHub Trophy -->
-<div align="center">
-  <img height="250px" alt="Coding GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-</div>
+
 
 ## 🚀 About Me
 
@@ -63,6 +61,10 @@ const developer = {
 </p>
 
 <!-- Animated Contribution Graph -->
+
+<div align="center">
+  <img height="250px" alt="Coding GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+</div>
 
 
 ## 📈 GitHub Stats
