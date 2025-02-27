@@ -52,7 +52,7 @@ const developer = {
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,github,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,github,vscode,docker,nodejs,figma" alt="Tech Stack" />
 </p>
 
 ## 📈 GitHub Stats
@@ -65,6 +65,12 @@ const developer = {
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=issam22-laafer&theme=github-dark-blue&hide_border=true" alt="GitHub Streak Stats" />
 </div>
+
+## 🎵 Now Playing
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+</p>
 
 ## 📊 This Week I Spent My Time On
 
