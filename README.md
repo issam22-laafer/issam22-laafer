@@ -48,6 +48,8 @@ const developer = {
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=issam22-laafer&theme=onedark&no-frame=true&row=1&margin-w=15&no-bg=true" alt="GitHub Trophy" />
 </p>
+
+
 - 🔭 I'm building **[Sousse Groupe Service](https://www.soussegroupeservice.com/)**
 - 🌱 I'm learning **C++ and Next.js**
 - 👯 Let's collaborate on **open-source projects**
