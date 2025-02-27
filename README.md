@@ -75,7 +75,7 @@ const developer = {
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=issam22-laafer&theme=github-dark-blue&hide_border=true" alt="GitHub Streak Stats" />
+  <a href="https://github.com/oakoudad/badge42"  ><img src="https://badge.mediaplus.ma/darkblue/lissam" alt="lissam's 42 stats" /></a> 
 </div>
 
 
