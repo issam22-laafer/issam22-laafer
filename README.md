@@ -21,6 +21,11 @@
 <!-- Cool Animated Wave -->
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
 
+<!-- Animated Heading -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Front-End+Developer;Passionate+about+UI%2FUX;Lover+of+Open+Source!" alt="Typing Animation">
+</h3>
+
 <!-- GitHub Trophy -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=issam22-laafer&theme=onedark&no-frame=true&row=1&margin-w=15&no-bg=true" alt="GitHub Trophy" />
@@ -52,8 +57,13 @@ const developer = {
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,github,vscode,docker,nodejs,figma,mysql,linux" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,github,vscode,docker,nodejs,figma" alt="Tech Stack" />
 </p>
+
+<!-- Animated Contribution Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=issam22-laafer&theme=dracula" alt="GitHub Contribution Graph" />
+</div>
 
 ## 📈 GitHub Stats
 
@@ -70,25 +80,6 @@ const developer = {
 
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
-</p>
-
-## 📊 This Week I Spent My Time On
-
-<!--START_SECTION:waka-->
-```text
-Coding            18 hrs 30 mins   ██████████████░░░░░░░░░   70.07 % 
-Reading Docs      4 hrs 15 mins    █████░░░░░░░░░░░░░░░░░░   16.35 % 
-Debugging         2 hrs 45 mins    ██░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-Taking Breaks     1 hr 30 mins     ██░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-```
-<!--END_SECTION:waka-->
-
-## 💖 Support Me
-
-<p align="center">
-  <a href="https://buymeacoffee.com/issamlaafel" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px">
-  </a>
 </p>
 
 ## 🐍 Contribution Snake
