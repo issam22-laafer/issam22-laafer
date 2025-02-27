@@ -27,9 +27,9 @@
 </h3>
 
 <!-- GitHub Trophy -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=issam22-laafer&theme=onedark&no-frame=true&row=1&margin-w=15&no-bg=true" alt="GitHub Trophy" />
-</p>
+<div align="center">
+  <img height="250px" alt="Coding GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+</div>
 
 ## 🚀 About Me
 
@@ -44,10 +44,10 @@ const developer = {
 };
 ```
 
-<div align="center">
-  <img height="250px" alt="Coding GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-</div>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=issam22-laafer&theme=onedark&no-frame=true&row=1&margin-w=15&no-bg=true" alt="GitHub Trophy" />
+</p>
 - 🔭 I'm building **[Sousse Groupe Service](https://www.soussegroupeservice.com/)**
 - 🌱 I'm learning **C++ and Next.js**
 - 👯 Let's collaborate on **open-source projects**
