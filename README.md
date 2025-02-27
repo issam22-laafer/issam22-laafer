@@ -22,9 +22,9 @@
 <img width="100%" height="50" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3V5N2Z1aGJ3dW5nODl0Yms1YjlvdGd4cXZ3dnpscXdleGE3eTRiZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tl83bLEVdyZKFTsGMI/giphy.gif" />
 
 <!-- Animated Heading -->
-<h3 align="center">
+<!--<h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Front-End+Developer;Passionate+about+UI%2FUX;Lover+of+Open+Source!" alt="Typing Animation">
-</h3>
+</h3> -->
 
 <!-- GitHub Trophy -->
 
