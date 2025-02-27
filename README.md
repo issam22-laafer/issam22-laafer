@@ -19,7 +19,7 @@
 </p>
 
 <!-- Cool Animated Wave -->
-<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
+<img width="100%" height="50" src="https://giphy.com/stickers/clouarchitects-line-dash-clou-tl83bLEVdyZKFTsGMI" />
 
 <!-- Animated Heading -->
 <h3 align="center">
